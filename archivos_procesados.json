@@ -1,0 +1,18 @@
+{
+    "20230721-040015.PRD.WRH.FM.AMA.BOV.FTP.DATA.tar.gz": {
+        "fecha_procesamiento": "2024-10-22",
+        "hora_procesamiento": "16:40:48",
+        "tamanio_archivo_comprimido": 44418392,
+        "num_archivos_extraidos": 224,
+        "num_archivos_convertidos": 112,
+        "tiempo_procesamiento": "0:00:14.493851"
+    },
+    "20230722-040016.PRD.WRH.FM.AMA.BOV.FTP.DATA.tar.gz": {
+        "fecha_procesamiento": "2024-10-22",
+        "hora_procesamiento": "16:41:04",
+        "tamanio_archivo_comprimido": 47138092,
+        "num_archivos_extraidos": 221,
+        "num_archivos_convertidos": 112,
+        "tiempo_procesamiento": "0:00:15.951306"
+    }
+}
